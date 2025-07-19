@@ -5,3 +5,5 @@
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 ,Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 ,Звезда Плюс
+http://cdn.admuspeh.my/8403/video.m3u8?token=c5gxB6MyLHhGfq7n
