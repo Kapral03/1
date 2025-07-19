@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 Первый канал (+5)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 ,Первый канал (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 Первый канал (+9)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 ,Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
