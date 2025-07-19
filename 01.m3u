@@ -1,9 +1,28 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 group-title="Общие 🇷🇺" ,Первый канал (+4)
-http://cdn.admuspeh.my/8145/video.m3u8?token=h1Rsy29PjoGsdVJf
-#EXTINF:-1 group-title="Общие 🇷🇺" ,Первый канал (+6)
-http://cdn.admuspeh.my/8299/video.m3u8?token=c5gxB6MyLHhGfq7n
+
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Звезда Плюс
 http://cdn.admuspeh.my/8403/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,День Победы HD
+http://cdn.admuspeh.my/9221/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Победа
+http://cdn.admuspeh.my/8391/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Патриот
+http://cdn.admuspeh.my/8285/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Арсенал HD
+http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺", Рыболов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Диалоги о Рыбалке
+http://cdn.admuspeh.my/8324/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Охота и Рыбалка
+http://cdn.admuspeh.my/8065/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Охотник и Рыболов HD  
+http://cdn.admuspeh.my/8183/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Дикая Рыбалка HD
+http://cdn.admuspeh.my/8316/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Дикий
+http://cdn.admuspeh.my/9205/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺" ,Дикая охота HD
+http://cdn.admuspeh.my/9206/video.m3u8?token=c5gxB6MyLHhGfq7n
