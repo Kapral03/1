@@ -96,6 +96,5 @@ http://cdn.admuspeh.my/8316/video.m3u8?token=c5gxB6MyLHhGfq7n
 http://cdn.admuspeh.my/9205/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Дикая охота HD
 http://cdn.admuspeh.my/9206/video.m3u8?token=c5gxB6MyLHhGfq7n
-#EXTINF:-1 tvg-id="191" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
-http://cdn.admuspeh.my/8206/video.m3u8?token=h1Rsy29PjoGsdVJf
+
 
