@@ -67,9 +67,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 ﻿#EXTINF:-1 group-title="Общие 🇷🇺" ,Шансон ТВ
-http://cdn.admuspeh.my/8126/video.m3u8?token=h1Rsy29PjoGsdVJf
+http://cdn.admuspeh.my/8126/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Ля минор
-http://cdn.admuspeh.my/8101/video.m3u8?token=h1Rsy29PjoGsdVJf
+http://cdn.admuspeh.my/8101/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Звезда Плюс
 http://cdn.admuspeh.my/8403/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,День Победы HD
@@ -81,7 +81,7 @@ http://cdn.admuspeh.my/8285/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Арсенал HD
 http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Оружие
-http://cdn.admuspeh.my/8206/video.m3u8?token=h1Rsy29PjoGsdVJf
+http://cdn.admuspeh.my/8206/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺", Рыболов
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Диалоги о Рыбалке
