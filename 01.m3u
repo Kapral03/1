@@ -99,7 +99,7 @@ http://cdn.admuspeh.my/9205/video.m3u8?token=c5gxB6MyLHhGfq7n
 http://cdn.admuspeh.my/9206/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="7" tvg-id="Мосфильм. Золотая коллекция", Мосфильм. Золотая коллекция
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Sport%20HD%20orig.png" catchup="flussonic" catchup-days="7" tvg-id="viju+ Sport HD", viju+ Sport HD
-#EXTGRP:Общие ru
+#EXTGRP:Общие 🇷🇺
 http://cdn.admuspeh.my/8015/video.m3u8?token=c5gxB6MyLHhGfq7n
 
 #EXTGRP:Общие 🇷🇺
@@ -149,6 +149,7 @@ http://cdn.admuspeh.my/8313/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" tvg-id="Наше Мужское HD", Наше Мужское HD
 #EXTGRP:Общие 🇷🇺
 http://cdn.admuspeh.my/8740/video.m3u8?token=c5gxB6MyLHhGfq7n
+
 
 
 
