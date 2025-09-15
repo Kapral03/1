@@ -84,7 +84,7 @@ http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Оружие
 http://cdn.admuspeh.my/8206/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺", Рыболов
-
+http://178.217.72.66:8080/rybolov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Диалоги о Рыбалке
 http://cdn.admuspeh.my/8324/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Охота и Рыбалка
@@ -149,6 +149,7 @@ http://cdn.admuspeh.my/8313/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" tvg-id="Наше Мужское HD", Наше Мужское HD
 #EXTGRP:Общие 🇷🇺
 http://cdn.admuspeh.my/8740/video.m3u8?token=c5gxB6MyLHhGfq7n
+
 
 
 
