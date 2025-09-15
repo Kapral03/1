@@ -84,7 +84,7 @@ http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Оружие
 http://cdn.admuspeh.my/8206/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺", Рыболов
-https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Диалоги о Рыбалке
 http://cdn.admuspeh.my/8324/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺" ,Охота и Рыбалка
@@ -147,6 +147,7 @@ http://cdn.admuspeh.my/8313/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" tvg-id="Наше Мужское HD", Наше Мужское HD
 #EXTGRP:Общие 🇷🇺
 http://cdn.admuspeh.my/8740/video.m3u8?token=c5gxB6MyLHhGfq7n
+
 
 
 
