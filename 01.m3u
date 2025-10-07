@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://epg.admuspeh.my,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
 #EXTINF:-1 group-title="Общие 🇷🇺" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
@@ -157,6 +157,7 @@ http://cdn.admuspeh.my/8313/video.m3u8?token=1evh3T5Vk9LUoqyT
 #EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" tvg-id="Наше Мужское HD", Наше Мужское HD
 #EXTGRP:Общие 🇷🇺
 http://cdn.admuspeh.my/8740/video.m3u8?token=1evh3T5Vk9LUoqyT
+
 
 
 
