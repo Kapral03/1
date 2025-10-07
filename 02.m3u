@@ -1,1 +1,261 @@
+#EXTM3U url-tvg="https://epg.admuspeh.my,http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+﻿
+﻿
+﻿#EXTINF:-1 group-title="Общие 🇷🇺" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+5) 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_UUDE.m3u8
+1#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+1http://cdn.admuspeh.my/8300/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,НТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Матч ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Пятый канал +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", Россия 24 
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_UUDE.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", Россия 24 
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" tvg-id="solovjinypomiot" ,Соловьев.Live 
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Ариг Ус 24  
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТВЦ +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", Сарафан
+http://31.148.48.15:80/Sarafan/index.m3u8?token=test
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Рен ТВ +4  
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Рен ТВ +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия К (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СТС (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Домашний +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Пятница! +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Пятница! +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,МИР (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,МИР (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Победа
 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Звезда плюс
+
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Звезда (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Звезда (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТНТ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,МУЗ ТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Ю (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8 
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Че! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Че! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Суббота! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Суббота! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СОЛНЦЕ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СОЛНЦЕ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+﻿
+
+﻿
+
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Звезда Плюс
+http://cdn.admuspeh.my/8403/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Военные 🇷🇺" ,День Победы HD
+http://cdn.admuspeh.my/9221/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Победа
+http://cdn.admuspeh.my/8391/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Патриот
+http://cdn.admuspeh.my/8285/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Арсенал HD
+http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 tvg-id="191" group-title="Военные 🇷🇺"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
+http://cdn.admuspeh.my/8206/video.m3u8?token=h1Rsy29PjoGsdVJf
+﻿
+﻿
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Общие 🇷🇺",Рыболов
+https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Диалоги о Рыбалке
+http://cdn.admuspeh.my/8324/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Охота и Рыбалка
+http://cdn.admuspeh.my/8065/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Охотник и Рыболов HD  
+http://cdn.admuspeh.my/8183/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Дикая Рыбалка HD
+http://cdn.admuspeh.my/8316/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Дикий
+http://cdn.admuspeh.my/9205/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" ,Дикая охота HD
+http://cdn.admuspeh.my/9206/video.m3u8?token=1evh3T5Vk9LUoqyT
+
+
+
+
+﻿
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
+http://cdn.admuspeh.my/8079/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+http://cdn.admuspeh.my/8188/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные", MiniMax Микромир HD
+http://cdn.admuspeh.my/8635/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные", MiniMax Макромир HD
+http://cdn.admuspeh.my/8636/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные", MiniMax Мегамир HD
+http://cdn.admuspeh.my/8770/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные", Тайны Галактики
+http://cdn.admuspeh.my/8337/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные" ,Наука 2.0
+http://cdn.admuspeh.my/8104/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные" ,Т24
+http://cdn.admuspeh.my/8196/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные" ,Е
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Авто Плюс
+http://cdn.admuspeh.my/8095/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные" ,Авто 24
+http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" ,Драйв
+http://cdn.admuspeh.my/8654/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 group-title="Познавательные" ,КВН ТВ
+http://cdn.admuspeh.my/8330/video.m3u8?token=1evh3T5Vk9LUoqyT
+
+
+#EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
+http://cdn.admuspeh.my/9061/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="663" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-marvel.png" catchup-days="0", CineMan Marvel FHD
+http://cdn.admuspeh.my/8951/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="985" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8628/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Ситком HD
+http://cdn.admuspeh.my/8628/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1008" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8623/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Ситком 2.0 HD
+http://cdn.admuspeh.my/8623/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1076" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_geroy.png" catchup-days="0", Kernel TV Герой HD
+http://cdn.admuspeh.my/9055/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="577" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8710/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="1", MiniMax Супергерои
+http://cdn.admuspeh.my/8710/video.m3u8?token=1evh3T5Vk9LUoqyT
+
+﻿
+
+#EXTINF:-1 tvg-id="29" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MEZZO%20RO.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8031/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="14", Mezzo
+http://cdn.admuspeh.my/8031/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="95" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9B%D1%8F-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8101/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="14", Ля минор
+http://cdn.admuspeh.my/8101/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="117" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A8%D0%B0%D0%BD%D1%81%D0%BE%D0%BD%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8126/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="14", Шансон ТВ
+http://cdn.admuspeh.my/8126/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="314" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%96%D0%B0%D1%80%D0%B0%20HD.png" catchup-days="0", Жара HD
+http://cdn.admuspeh.my/8361/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="126" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8135/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="14", Музыка Первого
+http://cdn.admuspeh.my/8135/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="173" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/RU%20TV%20FHD.png" catchup-days="0", RU TV
+http://cdn.admuspeh.my/8185/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="165" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MTV%20Live%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8177/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="7", MTV Live HD
+http://cdn.admuspeh.my/8177/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="128" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MTV%2080s%20RO.png" catchup-days="0", MTV 80s
+http://cdn.admuspeh.my/8137/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="30" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MTV%2000s%20RO.png" catchup-days="0", MTV 00s
+http://cdn.admuspeh.my/8032/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="443" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Club%20MTV.png" catchup-days="0", MTV Club
+http://cdn.admuspeh.my/8998/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1200" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MTV%20Hits%20RO.png" catchup-days="0", MTV Hits
+http://cdn.admuspeh.my/8838/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="340" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20TV%20orig.png" catchup-days="0", Bridge TV
+http://cdn.admuspeh.my/8527/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="393" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/BRIDGE%20CLASSIC.png" catchup-days="0", Bridge TV Classic
+http://cdn.admuspeh.my/8450/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1237" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/BRIDGE%20HITS.png" catchup-days="0", Bridge TV HITS HD
+http://cdn.admuspeh.my/9202/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1238" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20Deluxe%20HD%20orig.png" catchup-days="0", Bridge TV DELUXE HD
+http://cdn.admuspeh.my/9203/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1239" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A5%D0%B8%D1%82%20HD.png" catchup-days="0", Bridge TV РУССКИЙ ХИТ
+http://cdn.admuspeh.my/9227/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1240" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20%D0%A8%D0%BB%D1%8F%D0%B3%D0%B5%D1%80.png" catchup-days="0", Bridge TV ШЛЯГЕР
+http://cdn.admuspeh.my/9228/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1241" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20Rock.png" catchup-days="0", Bridge TV ROCK HD
+http://cdn.admuspeh.my/9229/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1242" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/BRIDGE%20%D0%A4%D1%80%D1%8D%D1%88.png" catchup-days="0", Bridge TV ФРЭШ HD
+http://cdn.admuspeh.my/9230/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="1243" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Bridge%20TV%20%D0%AD%D0%A2%D0%9D%D0%9E%20HD.png" catchup-days="0", Bridge TV ЭТНО HD
+http://cdn.admuspeh.my/9231/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="31" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Europa%20Plus%20TV%20orig.png" catchup-days="0", Europa Plus HD
+http://cdn.admuspeh.my/8033/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="307" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MCM%20Top%20Russia%20orig.png" catchup-days="0", MCM Top HD
+http://cdn.admuspeh.my/8351/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="936" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Viva%20HD.png" catchup-days="0", VIVA Russia HD
+http://cdn.admuspeh.my/8567/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="176" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/Music%20Box%20Russia%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8189/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="7", Russian Music Box
+http://cdn.admuspeh.my/8189/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="177" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%A3%D0%97-%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8190/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="7", Муз ТВ
+http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="965" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Rock%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8679/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Rock HD
+http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
